@@ -11,4 +11,10 @@ int main()
 {
 	int a = 0;
 	printf("hello git\n");
+	printf("create a branch\n");
+	printf("create a new branch");
+	pritnf("creating a new branch is quick and simple");
+	printf("--no-ff");
+	printf("fix bu1");
 }
+
