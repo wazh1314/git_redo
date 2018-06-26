@@ -9,5 +9,6 @@
 
 int main()
 {
+	int a = 0;
 	printf("hello git\n");
 }
