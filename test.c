@@ -11,4 +11,5 @@ int main()
 {
 	int a = 0;
 	printf("hello git\n");
+	printf("create a branch\n");
 }
