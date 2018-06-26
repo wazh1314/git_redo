@@ -16,5 +16,6 @@ int main()
 	pritnf("creating a new branch is quick and simple");
 	printf("--no-ff");
 	printf("fix bu1");
+	printf("dsad");
 }
 
